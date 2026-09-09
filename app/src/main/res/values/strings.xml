@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Veylo</string>
+    <string name="wallpaper_service_name">Veylo Live Wallpaper</string>
+    <string name="wallpaper_description">Plays your selected Veylo wallpaper.</string>
+</resources>
